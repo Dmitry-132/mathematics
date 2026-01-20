@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("№1");
 // При изменениях dog на дробное число выдавал incompatible types: possible lossy conversion double to int:20
-//  С причиной так и не разобрался
+//  С причиной так и не разобрался.
         double dog = 8;
         System.out.println(dog);
         var cat = 3.6;
@@ -30,7 +30,7 @@ public class Main {
         System.out.println(cat);
         System.out.println(paper);
 
-        System.out.println("№4");
+        System.out.println("№4 ");
 
         var friend = 19;
         System.out.println(friend);
